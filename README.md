@@ -26,7 +26,7 @@ Module `xorshiftPlus` is a parametrized pseudorandom number generator.
 ### Parameters
 
 |   Parameter   | Default Value |  Description |
-| :------: | :----: | :----: |  ------  |
+| :------: | :----: |  ------  |
 | `BITSIZE` | 64 | Bit size for state and output |
 | `SHIFT0` | 23 | left shift of xorshift+ |
 | `SHIFT1` | 18 | first right shift of xorshift+ |
