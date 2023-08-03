@@ -5,6 +5,7 @@
  * File        : xorshift+.v                        *
  * Author      : Yigit Suoglu                       *
  * Last Edit   : 14/04/2023                         *
+ * Licence     : CERN-OHL-W                         *
  * ------------------------------------------------ *
  * Description : Random number generator            *
  * ------------------------------------------------ *

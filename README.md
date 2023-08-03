@@ -9,6 +9,7 @@
 5. Test
 6. Status Information
 7. Issues
+8. Licence
 
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/xorshiftPlus)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/xorshiftPlus)
@@ -58,3 +59,7 @@ Modules in this repo is not tested on hardware yet.
 **Last Simulation:** 17 April 2023
 
 **Last Test:** -
+
+## License
+
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
